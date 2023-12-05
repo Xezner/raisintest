@@ -33,5 +33,7 @@ public class TestScript : MonoBehaviour
     public void RossMethod()
     {
         Debug.Log("ROSS WAS TESTING HERE Three");
+        Debug.Log("ROSS WAS TESTING HERE Four");
+        Debug.Log("Ross was stupid for adding both");
     }
 }
