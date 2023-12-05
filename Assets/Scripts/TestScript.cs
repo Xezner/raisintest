@@ -29,4 +29,9 @@ public class TestScript : MonoBehaviour
         Debug.Log("Hello World");
         Debug.Log("Hello World");
     }
+
+    public void RossMethod()
+    {
+        Debug.Log("ROSS WAS TESTING HERE");
+    }
 }
