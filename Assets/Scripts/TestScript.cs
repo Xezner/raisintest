@@ -13,10 +13,17 @@ public class TestScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
         Debug.Log("Hello World");
         Debug.Log("Hello World");
         Debug.Log("Hello World");
+        Debug.Log("Hello World");
+        Debug.Log("Hello World");
+        Debug.Log("Hello World");
+        Debug.Log("Hello World");
+    }
+
+    private void TestMethod()
+    {
         Debug.Log("Hello World");
         Debug.Log("Hello World");
         Debug.Log("Hello World");
